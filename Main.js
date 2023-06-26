@@ -1,4 +1,5 @@
 // get the IP address using ipify API
+header("Content-Type: text/javascript");
 fetch('https://api.ipify.org?format=json')
   .then(response => response.json())
   .then(data => {

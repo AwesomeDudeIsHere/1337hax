@@ -1,1 +1,1 @@
-https://2.rf.gd
+http://2.rf.gd

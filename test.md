@@ -1,1 +1,1 @@
-http://2.rf.gd
+http://example.com/
